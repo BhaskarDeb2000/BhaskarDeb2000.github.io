@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to m
 - 📫 How to reach me: [bhaskardeb120@gmail.com](bhaskardeb120@gmail.com)
 
 ## Projects
-These are my BCH Projects:<be> <ul> <li><a href="https://bc-hcars-project.vercel.app/" target="_blank">Cars Project</a> </li> <br> <li> <a href= "https://personal-portfolio-kohl-theta.vercel.app/" target="_blank">Portfolio</a> </li> </ul>
+These are my BCH Projects:<br> <a href="https://bc-hcars-project.vercel.app/" target="_blank">Cars Project<br> <a href= "https://personal-portfolio-kohl-theta.vercel.app/" target="_blank">Portfolio</a>
 
 
 ## Skills
